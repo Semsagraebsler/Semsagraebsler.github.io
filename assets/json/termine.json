@@ -1,11 +1,10 @@
 {
-  "Gründungsversammlung": [
+  "work": [
     {
       "organization": "Kleinles Besen",
       "position": "Gründungsversammlung",
-      "url": "https://example.com",
-      "startDate": "2024-04-16",
-      "endDate": "2025-04-17",
+      "startDate": "2024-04-16 17:00",
+      "endDate": "2025-04-16 20:00",
       "summary": "Grasiger Weg 2, D-71642 Ludwigsburg - Poppenweiler",
       "highlights": ["Satzungsbeschluss", "Gründungsfeier"]
     }
