@@ -237,11 +237,9 @@ plugins:
   - jekyll-feed
   - jekyll-get-json
   - jekyll-imagemagick
-  - jekyll-jupyter-notebook
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
-  - jekyll/scholar
   - jekyll-sitemap
   - jekyll-toc
   - jekyll-twitter-plugin
@@ -288,15 +286,15 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
-scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+#scholar:
+#  last_name: [Einstein]
+#  first_name: [Albert, A.]
 
-  style: apa
-  locale: en
-  source: /_bibliography/
-  bibliography: papers.bib
-  bibliography_template: bib
+#  style: apa
+#  locale: en
+#  source: /_bibliography/
+#  bibliography: papers.bib
+#  bibliography_template: bib
 #  # Note: if you have latex math in your bibtex, the latex filter
 #  # preprocessing may conflict with MathJAX if the latter is enabled.
 #  # See https://github.com/alshedivat/al-folio/issues/357.
