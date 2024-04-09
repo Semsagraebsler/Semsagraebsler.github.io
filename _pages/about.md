@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 1. Narrenzunft Poppenweiler e.V. (1. NZP)
 
 profile:
   align: right
