@@ -1,5 +1,5 @@
 {
-  "Termin": [
+  "termin": [
     {
       "organization": "Kleinles Besen",
       "position": "Gründungsversammlung",
@@ -9,7 +9,7 @@
       "highlights": ["Satzungsbeschluss", "Gründungsfeier"]
     }
   ],
-  "Termin": [
+  "termin": [
     {
       "organization": "Kleinles Besen",
       "position": "Gründungsversammlung 2",
