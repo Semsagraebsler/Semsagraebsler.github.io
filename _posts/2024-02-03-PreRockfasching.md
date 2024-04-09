@@ -3,8 +3,8 @@ layout: post
 title: Pre-Rockfasching Party
 date: 2024-02-03 17:00:00
 description: Bevor es  zum Rockfasching geht wurde sich angemessen eingestimmt.
-tags: formatting images
-categories: sample-posts
+tags: fasching party bilder
+categories: Events
 thumbnail: assets/img/2024-02-03_Pre_Rockfasching_party/Pre_Rockfasching_party_2024.jpeg
 images:
   compare: true
@@ -15,7 +15,7 @@ Unserer erste halb-offizielle Party
 
 ## Image Slider
 
-This is a simple image slider. It uses the [Swiper](https://swiperjs.com/) library. Check the [examples page](https://swiperjs.com/demos) for more information of what you can achieve with it.
+Bilder hier im Slider:
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024-02-03_Pre_Rockfasching_party/Pre_Rockfasching_party_2024.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -26,9 +26,8 @@ This is a simple image slider. It uses the [Swiper](https://swiperjs.com/) libra
 
 ## Image Comparison Slider
 
-This is a simple image comparison slider. It uses the [img-comparison-slider](https://img-comparison-slider.sneas.io/) library. Check the [examples page](https://img-comparison-slider.sneas.io/examples.html) for more information of what you can achieve with it.
-
+Hier unsere Evolution des Flyers:
 <img-comparison-slider>
-  {% include figure.liquid path="assets/img/prof_pic.jpg" class="img-fluid rounded z-depth-1" slot="first" %}
-  {% include figure.liquid path="assets/img/prof_pic_color.png" class="img-fluid rounded z-depth-1" slot="second" %}
+  {% include figure.liquid path="assets/img/2024-02-03_Pre_Rockfasching_party/PreRockfasching_old.jpeg" class="img-fluid rounded z-depth-1" slot="first" %}
+  {% include figure.liquid path="assets/img/2024-02-03_Pre_Rockfasching_party/Pre_Rockfasching_party_2024.jpeg" class="img-fluid rounded z-depth-1" slot="second" %}
 </img-comparison-slider>
