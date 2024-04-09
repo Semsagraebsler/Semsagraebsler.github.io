@@ -1,5 +1,5 @@
 {
-  "work": [
+  "Termin": [
     {
       "organization": "Kleinles Besen",
       "position": "Gründungsversammlung",
@@ -9,48 +9,14 @@
       "highlights": ["Satzungsbeschluss", "Gründungsfeier"]
     }
   ],
-  "certificates": [
+  "Termin": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "organization": "Kleinles Besen",
+      "position": "Gründungsversammlung 2",
+      "startDate": "2024-04-16 17:00",
+      "endDate": "2025-04-16 20:00",
+      "summary": "Grasiger Weg 2, D-71642 Ludwigsburg - Poppenweiler",
+      "highlights": ["Satzungsbeschluss", "Gründungsfeier"]
     }
   ]
 }

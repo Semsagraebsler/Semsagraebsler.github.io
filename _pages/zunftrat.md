@@ -1,5 +1,5 @@
 ---
-layout: profiles
+layout: zunftrat
 permalink: /Zunftrat/
 title: Zunftrat
 description: Zunftrat
