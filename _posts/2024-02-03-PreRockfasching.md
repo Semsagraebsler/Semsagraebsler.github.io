@@ -30,11 +30,11 @@ Bilder hier im Slider:
 Hier unsere Evolution des Flyers:
 <img-comparison-slider>
   <figure slot="first" class="before">
-    <img width="100%" src="assets/img/2024-02-03_Pre_Rockfasching_party/PreRockfasching_old.jpeg">
+    <img width="100%" src="/assets/img/2024-02-03_Pre_Rockfasching_party/PreRockfasching_old.jpeg">
     <figcaption>Before</figcaption>
   </figure>
   <figure slot="second" class="after">
-    <img width="100%" src="assets/img/2024-02-03_Pre_Rockfasching_party/Pre_Rockfasching_party_2024.jpeg">
+    <img width="100%" src="/assets/img/2024-02-03_Pre_Rockfasching_party/Pre_Rockfasching_party_2024.jpeg">
     <figcaption>After</figcaption>
   </figure>
 </img-comparison-slider>
