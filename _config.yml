@@ -241,6 +241,7 @@ plugins:
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll-sitemap
+  - jekyll/scholar
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
@@ -286,19 +287,19 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
-#scholar:
-#  last_name: [Einstein]
-#  first_name: [Albert, A.]
+scholar:
+  last_name: [Einstein]
+  first_name: [Albert, A.]
 
-#  style: apa
-#  locale: en
-#  source: /_bibliography/
-#  bibliography: papers.bib
-#  bibliography_template: bib
-#  # Note: if you have latex math in your bibtex, the latex filter
-#  # preprocessing may conflict with MathJAX if the latter is enabled.
-#  # See https://github.com/alshedivat/al-folio/issues/357.
-#  bibtex_filters: [latex, smallcaps, superscript]
+  style: apa
+  locale: en
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
+  # Note: if you have latex math in your bibtex, the latex filter
+  # preprocessing may conflict with MathJAX if the latter is enabled.
+  # See https://github.com/alshedivat/al-folio/issues/357.
+  bibtex_filters: [latex, smallcaps, superscript]
 
 #  replace_strings: true
 #  join_strings: true
@@ -482,5 +483,5 @@ jekyll_get_json:
   - data: resume
     json: assets/json/termine.json # it can also be an url
 jsonresume:
-  - Termin
-  - Auftritt
+  - termin
+  - auftritt
