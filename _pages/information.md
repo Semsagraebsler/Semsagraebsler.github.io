@@ -1,6 +1,6 @@
 ---
 layout: page
-title: information
+title: Information
 permalink: /information/
 description: A growing collection of information about the Semsagraebsler.
 nav: true

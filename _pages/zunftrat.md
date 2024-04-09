@@ -14,23 +14,23 @@ profiles:
     content: about_zunftmeister.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>email: </p>
+      <p>Zunftmeister:  </p>
   - align: left
     image: female.png
     content: about_vize_zunftmeister.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>email: </p>
+      <p>Vize-Zunftmeister: </p>
   - align: right
     image: male.png
     content: about_schatzmeister.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>email: </p>
+      <p>Schatzmeister: </p>
   - align: left
     image: prof_pic.jpg
     content: about_schriftfuehrer.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>email: </p>
+      <p>Schriftführer: </p>
 ---
