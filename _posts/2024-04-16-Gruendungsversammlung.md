@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gründugnsversammlung
+title: Gründungsversammlung
 date: 2024-04-16 17:00:00+0200
 description: Eindrücke  unserer Gründungsversammlung
 tags: information bilder

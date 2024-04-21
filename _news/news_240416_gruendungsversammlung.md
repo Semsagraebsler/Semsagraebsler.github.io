@@ -22,7 +22,7 @@ Neben dem ein oder anderen Wein haben wir uns offiziell zur Gründung der 1. Nar
 </ul>
 
 ---
-Weitere Eindrücke des Abends sind im Blog zu finden: {% post_url 2024-04-16-Gruendungsversammlung %}
+Weitere Eindrücke des Abends sind im Blog zu finden: [Blogeintrag Gründungsversammlung]({% post_url 2024-04-16-Gruendungsversammlung %})
 
 > „Feste bilden eins der schönsten Bande der gesellschaftlichen Verbindung eines Vereins – es ist der Jubel des Vereins über das, was er fertig gebracht hat – und sie werden den Verein bis ans Ende seiner Tage tragen.“ 
 > frei nach Rudolf von Ihering, deutscher Rechtswissenschaftler (1818-1892)
