@@ -25,6 +25,6 @@ Hier ein paar Eindrücke unserer Gründungsversammlung
 
 {% for image in site.static_files %}
     {% if image.path contains 'img/2024-04-16_Gruendungsversammlung' %}
-      <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+      ![]({{ site.baseurl }}{{ image.path }})
     {% endif %}
 {% endfor %}
