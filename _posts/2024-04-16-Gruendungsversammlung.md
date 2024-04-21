@@ -18,8 +18,9 @@ Hier ein paar Eindrücke unserer Gründungsversammlung
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
 {% for image in site.static_files %}
     {% if image.path contains 'img/2024-04-16_Gruendungsversammlung' %}
+  {% unless image.path contain '.webp' %}
       {% capture img_url %}{{ image.path | remove_first: "/"}}{% endcapture %}
-  <swiper-slide>{% include figure.liquid loading="eager" path=img_url class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path=img_url class="img-fluid rounded z-depth-1" %}</swiper-slide>{% endunless %}
     {% endif %}
 {% endfor %}
 </swiper-container>
