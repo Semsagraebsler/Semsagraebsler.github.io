@@ -5,7 +5,7 @@ date: 2024-04-16 17:00:00+0200
 description: Eindrücke  unserer Gründungsversammlung
 tags: information bilder
 categories: Offizielles
-thumbnail: assets/img/2024-02-03_Pre_Rockfasching_party/Pre_Rockfasching_party_2024.jpeg
+thumbnail: assets/img/2024-04-16_Gruendungsversammlung/PXL_20240416_163511058.PORTRAIT.jpeg
 images:
   compare: true
   slider: true
