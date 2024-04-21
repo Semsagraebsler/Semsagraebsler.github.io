@@ -5,7 +5,7 @@ permalink: /information/
 description: A growing collection of information about the Semsagraebsler.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Haes, Beitritt]
 horizontal: false
 ---
 

@@ -11,7 +11,7 @@ profile:
   more_info:
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 Poppenweiler – Bereits seit vielen Generationen erzählt man sich hier die Sage vom Semsagräbsler. Diese wurde von Generation zu Generation weitergegeben. Jedoch sind die alten Geschichten immer mehr in Vergessenheit geraten. Wenn überhaupt noch darüber gesprochen wird, so wird die Sage nur noch belächelt oder als Lügenmärchen abgetan. 
