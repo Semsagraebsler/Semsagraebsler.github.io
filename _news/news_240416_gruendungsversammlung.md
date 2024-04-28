@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gründungsversammlung
+title: News - Gründungsversammlung
 date: 2024-04-16 17:00:00+0200
 inline: false
 related_posts: false
@@ -23,6 +23,16 @@ Neben dem ein oder anderen Wein haben wir uns offiziell zur Gründung der 1. Nar
 
 ---
 Weitere Eindrücke des Abends sind im Blog zu finden: [Blogeintrag Gründungsversammlung]({% post_url 2024-04-16-Gruendungsversammlung %})
+Wir danken den Gründungsmitgliedern:
+- Alexander Kienzle
+- Andre Bott
+- Andreas Klotz
+- Hannes Hild
+- Madeleine Dalferth
+- Mattias Gottwald
+- Stefanie Klotz
+- Stephanie Gottwald
+
 
 > „Feste bilden eins der schönsten Bande der gesellschaftlichen Verbindung eines Vereins – es ist der Jubel des Vereins über das, was er fertig gebracht hat – und sie werden den Verein bis ans Ende seiner Tage tragen.“
 >  —frei nach Rudolf von Ihering, deutscher Rechtswissenschaftler (1818-1892)
