@@ -11,8 +11,8 @@ title: "Impressum"
 
 ### Postanschrift:
 ```
-Stiergasse 8/1
-71642 Ludwigsburg
+Straße Nr.
+PLZ Ludwigsburg
 ```
 ### Kontakt:
 ```
