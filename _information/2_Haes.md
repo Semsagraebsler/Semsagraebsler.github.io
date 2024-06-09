@@ -28,3 +28,5 @@ Weitere Details folgen...
         {% include figure.liquid loading="eager" path="assets/img/Maske.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+{% include stlviewer.html src="Maske_v1.0.stl" width=500 height=300 extrastyle="" %}
