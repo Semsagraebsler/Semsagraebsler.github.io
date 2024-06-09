@@ -31,5 +31,5 @@ Weitere Details folgen...
 
 <div class="row">
 3d Model unserer Maske
-{% include stlviewer.html src="Maske_v1.0.stl" width=500 height=300 extrastyle="" %}
+{% include stlviewer.html src="Maske_v1.0.stl" width=800 height=600 extrastyle="" %}
 </div>
