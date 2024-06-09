@@ -12,8 +12,8 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  <a href="impressum.html" target="_blank">Impressum</a>.
-  <a href="datenschutzerklaerung.html" target="_blank">Datenschutzerklärung</a>.
+  <a href="/impressum.html" target="_blank">Impressum</a>.
+  <a href="/datenschutzerklaerung.html" target="_blank">Datenschutzerklärung</a>.
 keywords: Poppenweiler, Narrenzunft, Semsagraebsler, Fasnet # add your own keywords or leave empty
 lang: de # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: semsagrabsler_logo_small.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
